@@ -37,7 +37,7 @@ We take reasonable measures to protect your information, but no method of transm
 
 Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. The latest version will always be available on https://github.com/gupywant/life-at-hj/privacy-policy.txt. We encourage you to review this policy periodically.
+We may update this Privacy Policy from time to time. The latest version will always be available on https://raw.githubusercontent.com/gupywant/life-at-hj/main/privacy-policy.txt. We encourage you to review this policy periodically.
 
 Contact Us
 
